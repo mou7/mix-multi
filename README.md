@@ -3,9 +3,10 @@ mix-multi
 
 This code implements the EM algorithm for the mixture of Multinomials. 
 
-Running the code 
+running the code 
 =================
 
 To run the code with a synthetic dataset
-
+``` python
 python -i mix_multi.py
+```
