@@ -1,4 +1,4 @@
-mix-multi
+Expectation-Maximization for mixture of Multinomials 
 =========
 
 This code implements the EM algorithm for the mixture of Multinomials. 
@@ -7,7 +7,7 @@ For each document, we sample a topic from a document-specific multinomial.
 Given this topic, we sample a word from the Multinomial distribution 
 that represents this topic. 
 
-running the code 
+Running the code 
 =================
 
 To run the code with a synthetic dataset
